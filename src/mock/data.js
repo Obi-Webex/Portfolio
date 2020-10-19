@@ -24,7 +24,7 @@ export const aboutData = {
     'I am a developer because I genuinely love learning and the absolutely massive scope of computer science is something I find incredibly rewarding and exciting. So, if you have know of any exciting opportunities that you feel would be a good fit please feel free to let me know.',
   paragraphThree:
     'Thanks for taking the time to go over my summary and if you would like to see some of my work check out my portfolio',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: '', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
