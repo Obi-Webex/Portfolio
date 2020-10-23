@@ -1,13 +1,12 @@
 {
-  "homepage": "http://Obi-Webex.github.io/Portfolio",
+  
   "name": "gatsby-starter-hello-world",
   "private": true,
   "description": "A simplified bare-bones starter for Gatsby",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "npm gh-pages -d build",
+    
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
